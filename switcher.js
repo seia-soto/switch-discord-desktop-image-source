@@ -5,6 +5,7 @@ const updateImageSource = images => {
     const image = images[i]
 
     image.src = image.src.replace(/media\.discordapp\.net/i, 'cdn.discordapp.com')
+    img.style.imageOrientation = 'from-image'
   }
 }
 

@@ -4,6 +4,8 @@ by [Seia-Soto](https://seia.io)
 
 Change the `src` property of image elements in DOM `media.discordapp.net` to `cdn.discordapp.com` automatically via JavaScript mutation observer.
 
+- Fix image orientation problem.
+
 ## Table of Contents
 
 - [English](#english)
